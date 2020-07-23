@@ -2,7 +2,7 @@
 //	Project      : Problem Solving Practice
 //	Problem name : Hexadecimal's theorem
 //	Problem URL  : codeforces.com/contest/199/problem/A
-//	Author       : PAiN
+//	Coder        : PainHup
 //	
 //---------------------------------------------------------------------
 #include <iostream>
@@ -16,5 +16,4 @@ int main() {
 	int n;
 	cin >> n;
 	cout << n << " 0 0";
-
 }
